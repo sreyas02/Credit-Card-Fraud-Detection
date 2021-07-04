@@ -1,6 +1,6 @@
 # Credit-Card-Fraud-Detection
 
-Credit Card Fraud Detection.
+Credit Card Fraud Detection
 
 link of dataset=https://www.kaggle.com/mlg-ulb/creditcardfraud. The datasets contain credit card transactions over a two-day collection period in September 2013 by European cardholders. There are a total of 284,807 transactions, of which 492 (0.172%) are fraudulent.
 
